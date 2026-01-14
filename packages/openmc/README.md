@@ -1,0 +1,10 @@
+# openmc
+
+OpenMC is a community-developed Monte Carlo neutron and photon
+transport simulation code.
+
+It is capable of performing fixed source, k-eigenvalue, and
+subcritical multiplication calculations on models built using either a
+constructive solid geometry or CAD representation.
+
+Available in packages.spack.io
